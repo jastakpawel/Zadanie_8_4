@@ -1,0 +1,19 @@
+{
+  "name": "jshint-kodilla",
+  "version": "1.0.0",
+  "description": "example jshint",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "jshint"
+  ],
+  "author": "Pawel Jastak",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
